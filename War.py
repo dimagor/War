@@ -45,7 +45,7 @@ while len(player1_cards) > 0 and len(player2_cards) > 0:
         #print(loser_deck, 'loser deck')                  
 if len(player1_cards) == 0:
     print('')
-    print("Player 2 won the game!")
+    print("Player 1 won the game!")
 elif len(player2_cards) == 0:
     print('')
-    print("Player 1 won the game!")
+    print("Player 2 won the game!")
